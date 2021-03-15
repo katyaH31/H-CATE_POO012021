@@ -6,21 +6,21 @@ namespace TeamWork
     {
         static void Main(string[] args)
         {
-            int a = 0, b = 0;
+            int c = 0, d = 0;
 
-            Console.WriteLine("Write the first integer value");
-            a = Int32.Parse(Console.ReadLine());
+            Console.WriteLine("Write number multiplying:");
+            c = Int32.Parse(Console.ReadLine());
 
-             Console.WriteLine("Write the second integer value");
-            b = Int32.Parse(Console.ReadLine());
+             Console.WriteLine("Write multiplier number:");
+            d = Int32.Parse(Console.ReadLine());
 
-            Console.WriteLine($"Subtracting {a} - {b} equals {AddNumbers(a, b)}");
+            Console.WriteLine($"Multiplying {c} * {d} equals {AddNumbers(c, d)}");
 
-        }    static int AddNumbers( int a, int b)
+        }    static int AddNumbers( int c, int d)
         {
-            return a - b;
+            return c * d;
         }
     }  
 }
 
-//Marcela: función creada desde segunda branch
+//Modificacion de resta a multiplicación Terminada.
