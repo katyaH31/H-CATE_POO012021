@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\karla\\.nuget\\packages\\": {}
+    "C:\\Users\\Lisbe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\karla\\OneDrive\\Escritorio\\Workspace\\Actividad Git\\H-CATE_POO012021\\TeamWork\\TeamWork.csproj",
+      "projectUniqueName": "C:\\Users\\Lisbe\\OneDrive\\Documentos\\GITHUB HÉCATE\\TaskFulano\\H-CATE_POO012021\\TeamWork\\TeamWork.csproj",
       "projectName": "TeamWork",
-      "projectPath": "C:\\Users\\karla\\OneDrive\\Escritorio\\Workspace\\Actividad Git\\H-CATE_POO012021\\TeamWork\\TeamWork.csproj",
-      "packagesPath": "C:\\Users\\karla\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\karla\\OneDrive\\Escritorio\\Workspace\\Actividad Git\\H-CATE_POO012021\\TeamWork\\obj\\",
+      "projectPath": "C:\\Users\\Lisbe\\OneDrive\\Documentos\\GITHUB HÉCATE\\TaskFulano\\H-CATE_POO012021\\TeamWork\\TeamWork.csproj",
+      "packagesPath": "C:\\Users\\Lisbe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Lisbe\\OneDrive\\Documentos\\GITHUB HÉCATE\\TaskFulano\\H-CATE_POO012021\\TeamWork\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\karla\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Lisbe\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
